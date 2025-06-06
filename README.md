@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/drooschuck">Devop Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/drooschuck">Network</a>, <a href="https://www.linkedin.com/in/drooschuck/">Cloud</a>, <a href="https://www.youtube.com/c/joshmadakor">Devops Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
