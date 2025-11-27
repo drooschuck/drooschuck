@@ -26,6 +26,14 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+<h2>📺 UK Educational Curriculum Quizzes</h2>
+
+- [Year 6 Quiz](https://github.com/drooschuck/IQuiz-App-Vanila-JS-Y6.git)
+- [Year 7 Quiz](https://github.com/drooschuck/IQuiz-App-Vanila-JS-Y7.git)
+- [Year 8 Quiz](https://github.com/drooschuck/IQuiz-App-Vanila-JS-Y8.git)
+- [Year 9 Quiz](https://github.com/drooschuck/IQuiz-App-Vanila-JS-Y9.git)
+- [Year 10 Quiz](https://github.com/drooschuck/IQuiz-App-Vanila-JS-Y10.git)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
